@@ -72,6 +72,15 @@ const PROJECTS: Project[] = [
     image: "https://picsum.photos/seed/excel-revenue/800/600",
     link: "https://capeitinitiative-my.sharepoint.com/:x:/g/personal/nkosimphile_mnisi_capaciti_org_za/IQBVZQWJ__YuTrght0eXo1aUAQFCkB6vRpq8COkdhKN--S4?e=2QeEpg",
     github: "https://github.com/MphileMnisi"
+  },
+  {
+    id: 3,
+    title: "Interactive Data Visualization",
+    description: "A sophisticated data visualization project utilizing advanced Excel features to transform complex datasets into clear, actionable visual narratives. Focuses on storytelling through data.",
+    tags: ["Excel", "Data Visualization", "Analytics", "Reporting"],
+    image: "https://picsum.photos/seed/datavis3/800/600",
+    link: "https://capeitinitiative-my.sharepoint.com/:x:/g/personal/nkosimphile_mnisi_capaciti_org_za/IQAdXAganhTAT7OZ3Q0k9zQ7AfWasj4jcmWCVvvp8pZsuv0?e=yJNnNW",
+    github: "https://github.com/MphileMnisi"
   }
 ];
 
